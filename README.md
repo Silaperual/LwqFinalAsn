@@ -1,2 +1,4 @@
-# Final Assignment
- Karting Project for Dev & Engine Class
+## 互动媒体（游戏）开发基础与游戏引擎原理与实践 最终大作业
+>仅限作业使用。Assignment only.
+### 第八次小作业 粒子特效练习
+>在Epic Toon FX和Karting资源的基础上改进制作了三个不同状态下的汽车光迹特效：加速状态——喷火；减速状态——爆胎烟雾；双倍金币状态——彩虹星星。通过终点的拱门后会触发礼花和烟花特效。
