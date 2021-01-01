@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Forest.unity
+- path: Assets/Desert.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
